@@ -1,7 +1,13 @@
 # Hi, I'm Tanzila Anwar 👋
 
 ## About Me👩‍🎓
-I'm Tanzila Anwar, a BS English student currently serving as the Head of Logistics for the Reading and Sports Societies 📚🏆. I am passionate about teamwork, leadership, and continuous learning. I completed my schooling at Civil Public High School Bhopalwala 🏫 and my college education at Punjab College Gujranwala 🎓. I am highly motivated to expand my academic and professional horizons internationally, with a specific goal to pursue further studies abroad in Linguistics 🌍🗣️.
+- I am Tanzila Anwar, a BS English student.
+- Currently serving as Head of Logistics for the Reading and Sports Societies 📚🏆.
+- Passionate about teamwork, leadership, and continuous learning.
+- Completed schooling at Civil Public High School Bhopalwala 🏫.
+- Completed college education at Punjab College Gujranwala 🎓.
+- Highly motivated to expand academic and professional horizons internationally 🌍.
+- Aspiring to pursue further studies abroad in Linguistics 🗣️.
 
 
 ---
