@@ -1,5 +1,12 @@
 # Hi, I'm Tanzila Anwar 👋
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Who+Am+I%3F;Tanzila+Anwar" alt="Typing SVG" />
+</h1>
+
+___
+
+
 ## About Me👩‍🎓
 - I am Tanzila Anwar, a BS English student.
 - Currently serving as Head of Logistics for the Reading and Sports Societies 📚🏆.
