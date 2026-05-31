@@ -39,7 +39,6 @@ ___
 
 ## Projects
 - AI Hackathon Presentation Project 🤖
-- No-Code AI Agent Builder Presentation 🛠️
 - Brochure Making Guidelines for Bilingual Parents 📖
 - Academic Exhibition Participation 🏛️
 - Quote Selection and Expository Essay Writing 📝
@@ -60,5 +59,14 @@ tanzeelaanwar252@gmail.com
 
 
 ⭐ *Always learning, improving, and exploring new ideas.*
+
+
+___
+
+
+Created with 🫀 and 🧠 by Tanzila Anwar 
+
+___
+
 
 
