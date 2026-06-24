@@ -43,7 +43,7 @@ ___
 - Academic Exhibition Participation 🏛️
 - Quote Selection and Expository Essay Writing 📝
 - Diagrammatic Representation of Literary Quotes 📊
-
+-📸 Photography Competition — Awarded 2nd Place 🏆 in the Green Quill Society Photography Competition.
 
 ---
 
