@@ -38,12 +38,16 @@ ___
 
 
 ## Projects
-- AI Hackathon Presentation Project 🤖
-- Brochure Making Guidelines for Bilingual Parents 📖
-- Academic Exhibition Participation 🏛️
-- Quote Selection and Expository Essay Writing 📝
-- Diagrammatic Representation of Literary Quotes 📊
--📸 Photography Competition — Awarded 2nd Place 🏆 in the Green Quill Society Photography Competition.
+-🤖 AI Hackathon Project — Contributed to the FairPrice Watchdog project during the Web Data UNLOCKED Hackathon.
+-📸 Photography Competition Achievement — Secured 2nd Place 🏆 in the Green Quill Society Photography Competition.
+-🎤 Academic Exhibition Participation — Presented and contributed to academic exhibition activities.
+-📚 Brochure Development Project — Created bilingual educational content for parents.
+-✍️ Expository Essay Writing Project — Developed analytical and research-based writing skills.
+-📊 Literary Analysis & Diagrammatic Representation — Visual interpretation of literary quotations.
+-🏅 Head of Logistics – Sports Society — Coordinated events, planning, and team management.
+-📖 Head of Logistics – Reading Society — Managed logistics and event organization for literary activities
+💻 AI & Technology Learning Projects — Completed workshops, hackathons, and technology-related training programs.
+
 
 ---
 
