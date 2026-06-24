@@ -64,7 +64,7 @@ tanzeelaanwar252@gmail.com
 ___
 
 
-## Created with 🫀 and 🧠 by Tanzila Anwar 
+Created with 🫀 and 🧠 by Tanzila Anwar 
 
 ___
 
